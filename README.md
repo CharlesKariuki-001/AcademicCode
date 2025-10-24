@@ -9,7 +9,7 @@ I'm a BSc Computer Science student grinding through a packed curriculum everythi
 ## Why This Forge?
 Back in my early days tinkering with tech, I realized lectures alone don't stick you need to *build* to own it. So, I started this repo to:
 - **Track my evolution**: From foundational scripts (hello, world... literally) to capstone beasts that mash up databases, AI, and hardware.
-- **Prove the grind**: Every folder ties back to a unit I'm tackling right now—commit history shows the timeline, READMEs in subfolders spill the "why I built this" tea.
+- **Prove the grind**: Every folder ties back to a unit I'm tackling right now commit history shows the timeline, READMEs in subfolders spill the "why I built this" tea.
 - **Spark connections**: Open-source it all (MIT license, baby) so you can fork, tweak, or just nod approvingly. Who knows? Maybe it'll land me a collab on something bigger.
 - **Future-proof my skills**: By 2027 (my self-imposed mastery deadline), this'll be a full armory for cybersecurity, AI, and cloud wizardry. For now, it's raw progress.
 
