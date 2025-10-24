@@ -7,7 +7,7 @@ Welcome to my digital workshop,where I hammer out code from the fires of univers
 I'm a BSc Computer Science student grinding through a packed curriculum everything from algorithms that make your brain hurt to web apps that could run a small empire. This repo is my way of showing the *how* behind the *what*: weekly commits, battle-tested code, and reflections on what clicked (or exploded spectacularly). If you're a recruiter scouting for that spark of initiative, or a fellow student looking for project inspo, pull up a stool. Let's talk code.
 
 ## Why This Forge?
-Back in my early days tinkering with tech, I realized lectures alone don't stick—you need to *build* to own it. So, I started this repo to:
+Back in my early days tinkering with tech, I realized lectures alone don't stick you need to *build* to own it. So, I started this repo to:
 - **Track my evolution**: From foundational scripts (hello, world... literally) to capstone beasts that mash up databases, AI, and hardware.
 - **Prove the grind**: Every folder ties back to a unit I'm tackling right now—commit history shows the timeline, READMEs in subfolders spill the "why I built this" tea.
 - **Spark connections**: Open-source it all (MIT license, baby) so you can fork, tweak, or just nod approvingly. Who knows? Maybe it'll land me a collab on something bigger.
@@ -16,7 +16,7 @@ Back in my early days tinkering with tech, I realized lectures alone don't stick
 Short version: If my transcript says "I studied it," this repo screams "I *applied* it."
 
 ## What's Inside? (The Anvil Breakdown)
-I've grouped projects by curriculum categories—mirroring how my units flow from core smarts to bleeding-edge hacks. Each folder has:
+I've grouped projects by curriculum categories mirroring how my units flow from core smarts to bleeding-edge hacks. Each folder has:
 - Source code (clean, commented, runnable).
 - A mini-README with setup instructions, challenges faced, and "what I learned" bullets.
 - Screenshots/GIFs of it in action (because static code is boring).
