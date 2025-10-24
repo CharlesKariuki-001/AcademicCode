@@ -4,7 +4,7 @@
 
 Welcome to my digital workshop,where I hammer out code from the fires of university lectures into tools that actually *work*. This isn't just a dump of assignments; it's my living proof that I'm knee-deep in Computer Science, turning theory into tangible projects. Think of it as my tech apprenticeship: starting with the basics (like wiring up simple circuits in my head) and forging ahead to wild stuff like AI chatbots and cloud-deployed networks.
 
-I'm a BSc Computer Science student grinding through a packed curriculum—everything from algorithms that make your brain hurt to web apps that could run a small empire. This repo is my way of showing the *how* behind the *what*: weekly commits, battle-tested code, and reflections on what clicked (or exploded spectacularly). If you're a recruiter scouting for that spark of initiative, or a fellow student looking for project inspo, pull up a stool. Let's talk code.
+I'm a BSc Computer Science student grinding through a packed curriculum everything from algorithms that make your brain hurt to web apps that could run a small empire. This repo is my way of showing the *how* behind the *what*: weekly commits, battle-tested code, and reflections on what clicked (or exploded spectacularly). If you're a recruiter scouting for that spark of initiative, or a fellow student looking for project inspo, pull up a stool. Let's talk code.
 
 ## Why This Forge?
 Back in my early days tinkering with tech, I realized lectures alone don't stick—you need to *build* to own it. So, I started this repo to:
