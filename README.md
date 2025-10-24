@@ -53,7 +53,7 @@ I've grouped projects by curriculum categories mirroring how my units flow from 
    [Dive in → `/projects/programming/adventure-game`]
 
 ### 6. **Web & Internet Technologies**  
-   The front door to the digital world—design that doesn't suck.  
+   The front door to the digital world design that doesn't suck.  
    - **Portfolio + Blog CMS**: Full-stack with PHP/MySQL for dynamic posts.  
      *Why?* Because static sites are so 2010; this one's alive and editable.  
    [Dive in → `/projects/web-tech/blog-cms`]
@@ -71,7 +71,7 @@ I've grouped projects by curriculum categories mirroring how my units flow from 
    [Dive in → `/projects/systems-networking/net-monitor`]
 
 ### 9. **Software Engineering & Project Management**  
-   The blueprint phase—UML, SDLC, no code left behind.  
+   The blueprint phase UML, SDLC, no code left behind.  
    - **Library Management Prototype**: Full cycle from requirements to ER diagrams.  
      *Why?* Proves I can ship software without it crumbling like week-old bread.  
    [Dive in → `/projects/software-eng/library-system`]
@@ -114,7 +114,7 @@ Coming soon(ish) the forge's masterpiece. A unified platform blending *everythin
 Evolving as I go suggestions welcome!
 
 ## Get Involved (Or Just Lurk)
-Fork it, star it, open an issue if you spot a glitch. I'm all about feedback—did that algorithm optimize like a champ, or did it chug like an old laptop? No contribs required, but if you're into pair-programming a security tweak, DM me.  
+Fork it, star it, open an issue if you spot a glitch. I'm all about feedback did that algorithm optimize like a champ, or did it chug like an old laptop? No contribs required, but if you're into pair-programming a security tweak, DM me.  
 
 - **Issues?** Tag 'em with `bug`, `enhancement`, or `question`.  
 - **License**: MIT use freely, just shout me out. See [LICENSE](LICENSE).  
