@@ -24,24 +24,24 @@ I've grouped projects by curriculum categories—mirroring how my units flow fro
 
 ### 1. **Foundations & General Skills**  
    Kickoff tools for thinking like a techie.  
-   - **Student Resource Portal**: A simple web app with research guides, climate quizzes, and entrepreneurship trackers. (Built with HTML/CSS/JS—my first full-stack swing.)  
+   - **Student Resource Portal**: A simple web app with research guides, climate quizzes, and entrepreneurship trackers. (Built with HTML/CSS/JS.)  
      *Why?* Turns soft skills into interactive gold.  
    [Dive in → `/projects/foundations/student-portal`]
 
 ### 2. **Mathematics & Statistics**  
-   The invisible scaffolding—graphs, probs, and matrices that power everything else.  
+   The invisible scaffolding graphs, probs, and matrices that power everything else.  
    - **Campus Stats Dashboard**: Python/Pandas viz of fake student data (attendance trends, grade predictors).  
      *Why?* Stats aren't dry when they forecast your GPA.  
    [Dive in → `/projects/math-stats/campus-dashboard`]
 
 ### 3. **Physics & Electronics**  
-   Where bits meet atoms—understanding the hardware hum.  
+   Where bits meet atoms;understanding the hardware hum.  
    - **Smart Light Sensor**: Arduino sketch for auto-LED control based on ambient light.  
      *Why?* Bridges theory (ohms, waves) to "hey, this actually dims my desk lamp."  
    [Dive in → `/projects/physics-electronics/light-sensor`]
 
 ### 4. **Computer Fundamentals**  
-   The guts of it all—how machines think before we make 'em dance.  
+   The guts of it all how machines think before we make 'em dance.  
    - **CPU Simulator**: Python sim of fetch-execute cycles with toy assembly.  
      *Why?* Demystifies why your laptop doesn't melt during compiles.  
    [Dive in → `/projects/fundamentals/cpu-sim`]
@@ -59,7 +59,7 @@ I've grouped projects by curriculum categories—mirroring how my units flow fro
    [Dive in → `/projects/web-tech/blog-cms`]
 
 ### 7. **Database & Data Systems**  
-   Organizing chaos—one query at a time.  
+   Organizing chaos one query at a time.  
    - **Grade & Attendance Tracker**: MySQL backend with Flask reports.  
      *Why?* If I can query my own procrastination patterns, imagine what I'd do for a company.  
    [Dive in → `/projects/database/grade-tracker`]
@@ -83,7 +83,7 @@ I've grouped projects by curriculum categories—mirroring how my units flow fro
    [Dive in → `/projects/emerging/ai-bot`]
 
 ### 11. **Security & Ethics**  
-   Guarding the gates—hacks, audits, and moral compasses.  
+   Guarding the gates hacks, audits, and moral compasses.  
    - **Local Vuln Scanner**: Port sweeper with basic countermeasures.  
      *Why?* Teaches me to think like the bad guy (ethically, obvs).  
    [Dive in → `/projects/security/vuln-scanner`]
@@ -101,7 +101,7 @@ I've grouped projects by curriculum categories—mirroring how my units flow fro
    [Dive in → `/projects/embedded/door-lock`]
 
 ### The Capstone: **Smart Campus Ecosystem**  
-Coming soon(ish)—the forge's masterpiece. A unified platform blending *everything*: Web/mobile frontend, AI analytics for study paths, IoT sensors for room vibes, secure cloud backend, and e-com for campus trades. Tech: React/Flutter, Django/Postgres, TensorFlow on AWS, Raspberry Pi hooks.  
+Coming soon(ish) the forge's masterpiece. A unified platform blending *everything*: Web/mobile frontend, AI analytics for study paths, IoT sensors for room vibes, secure cloud backend, and e-com for campus trades. Tech: React/Flutter, Django/Postgres, TensorFlow on AWS, Raspberry Pi hooks.  
 *Why the big one?* To weld all these mini-forges into a portfolio nuke. 
 
 
@@ -111,13 +111,13 @@ Coming soon(ish)—the forge's masterpiece. A unified platform blending *everyth
 - **Cloud/Hardware**: AWS free tier, Raspberry Pi 4, Arduino Uno.  
 - **Libs/Frameworks**: React, Flask/Django, Pandas/Scikit-learn, TensorFlow lite.  
 
-Evolving as I go—suggestions welcome!
+Evolving as I go suggestions welcome!
 
 ## Get Involved (Or Just Lurk)
 Fork it, star it, open an issue if you spot a glitch. I'm all about feedback—did that algorithm optimize like a champ, or did it chug like an old laptop? No contribs required, but if you're into pair-programming a security tweak, DM me.  
 
 - **Issues?** Tag 'em with `bug`, `enhancement`, or `question`.  
-- **License**: MIT—use freely, just shout me out. See [LICENSE](LICENSE).  
+- **License**: MIT use freely, just shout me out. See [LICENSE](LICENSE).  
 - **Code of Conduct**: Be kind, be curious. No toxicity in the forge.
 
 ## Let's Connect
@@ -125,7 +125,7 @@ Fork it, star it, open an issue if you spot a glitch. I'm all about feedback—d
 - [X/Twitter](https://x.com/yourhandle) – Quick tech hot takes.  
 - Email: yourname@example.com (or whatever floats your boat).  
 
-Thanks for stopping by—hope this inspires you to fire up your own forge. What's your next build?  
+Thanks for stopping by hope this inspires you to fire up your own forge. What's your next build?  
 
 *Forged with curiosity, caffeine, and a whole lot of debugging.*
 <!-- Add a footer image or GIF of code compiling successfully? -->
