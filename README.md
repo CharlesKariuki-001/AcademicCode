@@ -1,4 +1,4 @@
-# AcademicCodeForge
+# AcademicCode
 
 ![Forge Banner](https://via.placeholder.com/1200x300/1a1a1a/ffffff?text=Academic+Code+Forge+-+Building+Tech+One+Project+at+a+Time) <!-- Replace with a custom image later, like a anvil/code mashup -->
 
@@ -102,16 +102,8 @@ I've grouped projects by curriculum categories—mirroring how my units flow fro
 
 ### The Capstone: **Smart Campus Ecosystem**  
 Coming soon(ish)—the forge's masterpiece. A unified platform blending *everything*: Web/mobile frontend, AI analytics for study paths, IoT sensors for room vibes, secure cloud backend, and e-com for campus trades. Tech: React/Flutter, Django/Postgres, TensorFlow on AWS, Raspberry Pi hooks.  
-*Why the big one?* To weld all these mini-forges into a portfolio nuke. Watch this space—first prototype by semester's end.
+*Why the big one?* To weld all these mini-forges into a portfolio nuke. 
 
-## Roadmap: What's Forging Next?
-I'm syncing this with my uni calendar—aiming for 1-2 commits/week, ramping to daily during crunch times.  
-- **Q4 2025**: Flesh out foundations + programming folders. Tackle that CPU sim bug that's been mocking me.  
-- **Q1 2026**: Dive into web/database—deploy the blog live.  
-- **Mid-2026**: Emerging tech push; train that AI bot to roast my bad habits.  
-- **2027 Goal**: Capstone live, plus job-ready branches (e.g., cyber-focused forks).  
-
-Check `/ROADMAP.md` for the gritty timeline, or hit me up for collabs.
 
 ## Tech Stack I'm Wielding
 - **Languages**: Python (daily driver), JS/TS (web wizardry), C/Assembly (low-level grit), SQL (data wrangling).  
@@ -135,5 +127,5 @@ Fork it, star it, open an issue if you spot a glitch. I'm all about feedback—d
 
 Thanks for stopping by—hope this inspires you to fire up your own forge. What's your next build?  
 
-*Forged with curiosity, caffeine, and a whole lot of debugging. Last hammered: October 2025.*
+*Forged with curiosity, caffeine, and a whole lot of debugging.*
 <!-- Add a footer image or GIF of code compiling successfully? -->
